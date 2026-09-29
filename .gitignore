@@ -1,0 +1,14 @@
+# Never place historical client exports or confidential source files in this repository.
+private/
+raw-client-data/
+source-files/
+client-data/
+*.bak
+~$*.xlsx
+.DS_Store
+Thumbs.db
+
+# Keep working-source material out of the public portfolio.
+DigitalOpsDesk_FBA_Restock_Planner*.xlsx
+*_source.*
+*_raw.*
